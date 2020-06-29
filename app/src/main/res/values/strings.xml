@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZGyroscope</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="xaxis">X-axis</string>
+    <string name="yaxis">Y-axis</string>
+    <string name="zaxis">Z-axis</string>
+    <string name="destxtview">Rotate along x, y, or z direction</string>
+
+</resources>
